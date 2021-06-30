@@ -1,2 +1,3 @@
 # pract
-### this is just for practice
+what say homie
+#my work hear is done
