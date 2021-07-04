@@ -1,0 +1,13 @@
+.B1,
+.B2,
+.B3 {
+    border: 1px solid black;
+    display: flex;
+    flex-basis: 33%;
+    flex-grow: 0;
+    flex-shrink: 0;
+}
+
+.B1 {
+    background-color: blanchedalmond;
+}
